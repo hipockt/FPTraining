@@ -40,4 +40,4 @@ For more information or to purchase the USB, please contact us at `contact@fptra
 ## Links
 
 - [FPTraining Website](https://fptraining.github.io)
-- [FPTraining Facebook Page](https://facebook.com/fptraining)
+- [FPTraining Facebook Page](https://facebook.com/fptrainingexpert)
