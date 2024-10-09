@@ -8,11 +8,24 @@
             height: auto;     /* Maintain aspect ratio */
             max-height: 600px; /* Set a maximum height */
         }
+
+        .image-container {
+            display: flex;
+            justify-content: center;  /* Center the images horizontally */
+            align-items: center;      /* Center them vertically (optional) */
+            margin-bottom: 20px;      /* Adds space between images */
+        }
     </style>
 </head>
 <body>
-    <img src="image1.jpg" alt="Image 1">
-    <img src="image2.jpg" alt="Image 2">
-    <img src="image3.jpg" alt="Image 3">
+    <div class="image-container">
+        <img src="image1.jpg" alt="Image 1">
+    </div>
+    <div class="image-container">
+        <img src="image2.jpg" alt="Image 2">
+    </div>
+    <div class="image-container">
+        <img src="image3.jpg" alt="Image 3">
+    </div>
 </body>
 </html>
